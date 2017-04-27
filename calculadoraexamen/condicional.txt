@@ -1,0 +1,7 @@
+var panta=pantalla.toString();
+  if(panta.length<=8){
+    console.log(xx);
+    return
+  }
+   else{
+     console.log(xx);
